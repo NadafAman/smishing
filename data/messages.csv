@@ -1,0 +1,6 @@
+message,label
+"Congratulations, you've won a prize!",spam
+"Click here to verify your bank account",smishing
+"Let's meet tomorrow at noon.",ham
+"Urgent! Update your payment details now.",smishing
+"Are we still on for dinner?",ham
